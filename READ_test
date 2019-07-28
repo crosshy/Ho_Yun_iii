@@ -1,0 +1,6 @@
+echo "# Ho_Yun_iii" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/crosshy/Ho_Yun_iii.git
+git push -u origin master
